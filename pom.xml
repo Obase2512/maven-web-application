@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.201.241.19:8081/repository/visa-fe-releases/</url>
+	      <url>http://34.207.147.173:8081/repository/visa1-fe-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.201.241.19:8081/repository/visa-fe-snapshots/</url>
+	      <url>http://34.207.147.173:8081/repository/visa1-fe-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
